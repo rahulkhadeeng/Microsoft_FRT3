@@ -29,6 +29,18 @@ Screenshots and Video
 ![Screenshot (212)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/9017a38f-a100-49fb-bd77-0603863d382a)
 ![Screenshot (213)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/c82814e3-ea6a-443f-b6af-2cb55864c962)
 ![Screenshot (214)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/3606c76d-b12a-4d9c-b0bb-8d311e51fc74)
+<br>
+Website Screenshots:
+
+![Screenshot (215)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/9be29fd3-6987-4125-896e-65cdafde36f6)
+![Screenshot (216)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/d7e7d9ea-2be9-4c88-8365-65a58bfade0a)
+![Screenshot (217)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/d8499e5e-687a-4cc2-9949-25e09654544a)
+![Screenshot (218)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/e6fa50a9-9302-4ceb-887b-803303586562)
+![Screenshot (219)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/04e196e5-69fe-464c-8776-ce616fd30127)
+![Screenshot (220)](https://github.com/rahulkhadeeng/Microsoft_FRT3/assets/141446537/670aa1eb-86bc-417f-8206-39dc01d970ab)
+<br>
+Website demo video
+
 
 
 
