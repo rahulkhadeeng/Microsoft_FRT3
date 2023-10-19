@@ -1,6 +1,8 @@
 Home_decor_final
-Team member
+Team Member
+<br>
 Yash-https://github.com/Yashh1506
+<br>
 Rahul-https://github.com/rahulkhadeeng
 <br>
 This is my final project
