@@ -8,6 +8,7 @@ I have used 2 Azure services
 
 
 Azure static web app link - https://yellow-forest-0f0da1910.3.azurestaticapps.net
+<br>
 github deployed link - rahulkhadeeng.github.io/Microsoft_FRT3/
 
 Project Description:
